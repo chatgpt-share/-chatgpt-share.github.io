@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://chatgpt-share.github.io//sitemap.xml
